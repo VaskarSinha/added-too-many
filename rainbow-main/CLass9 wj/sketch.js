@@ -34,8 +34,6 @@ nothing2.shapeColor="red";
       
 drawSprites();
 }
-function mousePressedOver(){
-  background("brown")
-}
+
 
 
